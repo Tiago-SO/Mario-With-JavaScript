@@ -2,7 +2,9 @@
 Jogo simples do Mario.
 Feito fisica de salto e colisão.
 
-![Tiago Sousa](image.png)
+![Tiago Sousa](image1.png)
+![Tiago Sousa](image2.png)
+![Tiago Sousa](image3.png)
 
 ## Tecnologias utilizadas
 
